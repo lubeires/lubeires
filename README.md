@@ -12,14 +12,6 @@ I'm currently learning `TypeScript`, `ReactJS` and `NodeJS`
 ##
 
 <p align="center">
-  <a href="https://github.com/plhrsl/portfolio">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=plhrsl&repo=portfolio&theme=dark"/>
-  </a>
-</p>
-
-##
-
-<p align="center">
   <img align="center" height="35" width="35" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="35" width="35" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" height="35" width="35" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   
