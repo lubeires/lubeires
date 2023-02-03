@@ -12,7 +12,9 @@ I'm currently learning `TypeScript`, `ReactJS` and `NodeJS`
 ##
 
 <p align="center">
-  <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=plhrsl&repo=portfolio&theme=dark"/>
+  <a href="https://github.com/plhrsl/portfolio">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=plhrsl&repo=portfolio&theme=dark"/>
+  </a>
 </p>
 
 ##
