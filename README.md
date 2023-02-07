@@ -5,8 +5,8 @@ I'm currently learning `TypeScript`, `ReactJS` and `NodeJS`
 ##
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=plhrsl&show_icons=true&theme=dark&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plhrsl&layout=compact&theme=dark&langs_count=8&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=plhrsl&show_icons=true&theme=dark&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=plhrsl&layout=compact&theme=dark&langs_count=8&count_private=true" />
 </p>
 
 ##
