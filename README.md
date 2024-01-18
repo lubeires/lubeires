@@ -1,7 +1,5 @@
 ### hi there!
 
-I'm currently learning `TypeScript`, `ReactJS` and `NodeJS`
-
 ##
 
 <p align="center">
