@@ -1,8 +1,7 @@
 ##
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lubeires&show_icons=true&theme=dark&count_private=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lubeires&layout=compact&theme=dark&langs_count=10&count_private=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lubeires&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
 </p>
 
 ##
